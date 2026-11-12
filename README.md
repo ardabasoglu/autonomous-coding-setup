@@ -1,6 +1,6 @@
 # Autonomous Coding Setup
 
-[![skills.sh installs](https://skills.sh/b/ardabasoglu/autonomous-coding-setup)](https://skills.sh/ardabasoglu/autonomous-coding-setup)
+[![View on skills.sh](https://img.shields.io/badge/skills.sh-view%20skill-111111?logo=vercel&logoColor=white)](https://skills.sh/ardabasoglu/autonomous-coding-setup)
 
 Prepare repositories for safer autonomous AI coding across multiple coding agents and harnesses. The skill detects the repository's existing setup, separates universal safety controls from agent-specific configuration, explains the gaps, and—only after approval—generates a reviewable setup.
 
